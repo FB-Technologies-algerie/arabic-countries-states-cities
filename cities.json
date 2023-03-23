@@ -2047,6 +2047,7 @@
   {"id": "2521805","name": "Sheikh Ali Jawhar","state_id": "25218"},
   {"id": "2521806","name": "Siberia ","state_id": "25218"},
   {"id": "2521807","name": "Ahmed Guray","state_id": "25218"},
+  // those should be arabic names , some are incorrect : saudi , mekka. some are missing : balbala
   {"id": "2530101","name": "Heron District","state_id": "25301"},
   {"id": "2530102","name": "Marabout District","state_id": "25301"},
   {"id": "2530103","name": "Serpent District","state_id": "25301"},
@@ -2076,6 +2077,7 @@
   {"id": "2530126","name": "Ambouli District","state_id": "25301"},
   {"id": "2530127","name": "Djebel District","state_id": "25301"},
   {"id": "2530128","name": "Haramous District","state_id": "25301"},
+  // use only arabic names
   {"id": "2530201","name": "علي صبيح","state_id": "25302"},
   {"id": "2530202","name": "حلحول","state_id": "25302"},
   {"id": "2530203","name": "علي آدى","state_id": "25302"},
@@ -2087,6 +2089,7 @@
   {"id": "2530209","name": "Dânan","state_id": "25302"},
   {"id": "2530210","name": "Dasbiyo","state_id": "25302"},
   {"id": "2530211","name": "Doudoub Bolole","state_id": "25302"},
+  // those are libiya's cities , check this for djibouti : https://en.wikipedia.org/wiki/Tadjourah_Region
   {"id": "2530301","name": "شط سيدي عثمان","state_id": "25303"},
   {"id": "2530302","name": "بطيسة","state_id": "25303"},
   {"id": "2530303","name": "الحميدية","state_id": "25303"},
@@ -2098,6 +2101,8 @@
   {"id": "2530309","name": "السوق - الوسط","state_id": "25303"},
   {"id": "2530310","name": "غودش","state_id": "25303"},
   {"id": "2530311","name": "العقاب ","state_id": "25303"},
+  {"id": "2530312","name": "درة ","state_id": "25307"},
+  // use only arabic names, and some are missing too like : fillakouba
   {"id": "2530401","name": "أُبـُخ ","state_id": "25304"},
   {"id": "2530402","name": "دادتو ","state_id": "25304"},
   {"id": "2530403","name": "خور أنغار ","state_id": "25304"},
@@ -2108,6 +2113,7 @@
   {"id": "2530408","name": "Lahassa ","state_id": "25304"},
   {"id": "2530409","name": "Egahlou ","state_id": "25304"},
   {"id": "2530410","name": "Ribta ","state_id": "25304"},
+  
   {"id": "2530501","name": "دخيل","state_id": "25305"},
   {"id": "2530502","name": "والعلا","state_id": "25305"},
   {"id": "2530503","name": "غالافي","state_id": "25305"},
@@ -2119,13 +2125,14 @@
   {"id": "2530509","name": "توع","state_id": "25305"},
   {"id": "2530510","name": "كوته بوي","state_id": "25305"},
   {"id": "2530511","name": "داغويرو","state_id": "25305"},
+
   {"id": "2530601","name": "عرتا","state_id": "25306"},
   {"id": "2530602","name": "وع","state_id": "25306"},
   {"id": "2530603","name": "لويادا","state_id": "25306"},
   {"id": "2530604","name": "شبيلي","state_id": "25306"},
   {"id": "2530605","name": "داميرجوغ","state_id": "25306"},
   {"id": "2530606","name": "كوسور","state_id": "25306"},
-  {"id": "2530701","name": "درة ","state_id": "25307"},
+
   {"id": "2690101","name": "موروني","state_id": "26901"},
   {"id": "2690102","name": "فانامبويني","state_id": "26901"},
   {"id": "2690103","name": "فانادجو","state_id": "26901"},
