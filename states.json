@@ -27,6 +27,9 @@
   { "id": "2026", "name": "سوهاج", "country_id": "20" },
   { "id": "2027", "name": "قنا", "country_id": "20" },
 
+  // Some moroccan prefectures are missing (it says 75 in the wiki page)
+  // Check column "الأقاليم و العمالات" in the attached link : 
+  // https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D9%82%D8%B3%D9%8A%D9%85_%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A_%D9%81%D9%8A_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8
   { "id": "21201", "name": "الدار البيضاء", "country_id": "212" },
   { "id": "21202", "name": "فاس", "country_id": "212" },
   { "id": "21203", "name": "الرباط", "country_id": "212" },
@@ -74,7 +77,6 @@
   { "id": "21245", "name": "سور سبت أولاد النمة", "country_id": "212" },
   { "id": "21246", "name": "سلا الجديدة", "country_id": "212" },
 
-  { "id": "21301", "": "طن", "country_id": "213" },
   { "id": "21301", "name": "الجزائر", "country_id": "213" },
   { "id": "21302", "name": "بومرداس", "country_id": "213" },
   { "id": "21303", "name": "تيبازة", "country_id": "213" },
@@ -132,6 +134,7 @@
   { "id": "21355", "name": "تقرت", "country_id": "213" },
   { "id": "21356", "name": "جانت", "country_id": "213" },
   { "id": "21357", "name": "إن قزام", "country_id": "213" },
+  { "id": "21358", "name": "الوادي", "country_id": "213" },
 
   { "id": "21601", "name": "أريانة", "country_id": "216" },
   { "id": "21602", "name": "باجة", "country_id": "216" },
@@ -158,6 +161,9 @@
   { "id": "21623", "name": "المهدية", "country_id": "216" },
   { "id": "21624", "name": "نابل", "country_id": "216" },
 
+  // I think there are a lot of additional districts
+  // As of 2007 (latest), apparently there are 22 districts in Libya only
+  // https://fr.wikipedia.org/wiki/Administration_territoriale_de_la_Libye
   { "id": "21801", "name": "طرابلس", "country_id": "218" },
   { "id": "21802", "name": "بنغازي", "country_id": "218" },
   { "id": "21803", "name": "مصراتة", "country_id": "218" },
@@ -204,7 +210,7 @@
   { "id": "22203", "name": "الحوض الغربي", "country_id": "222" },
   { "id": "22204", "name": "لعصابة", "country_id": "222" },
   { "id": "22205", "name": "كوركول", "country_id": "222" },
-  { "id": "22206", "name": "البراكنة", "country_id": "222" },
+  { "id": "22206", "name": "لبراكنة", "country_id": "222" },
   { "id": "22207", "name": "ترارزة", "country_id": "222" },
   { "id": "22208", "name": "أدرار", "country_id": "222" },
   { "id": "22209", "name": "داخلة نواذيبو", "country_id": "222" },
