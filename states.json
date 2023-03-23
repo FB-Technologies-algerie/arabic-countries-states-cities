@@ -233,7 +233,10 @@
   { "id": "24916", "name": "ولاية جنوب دارفور", "country_id": "249" },
   { "id": "24917", "name": "ولاية شرق دارفور", "country_id": "249" },
   { "id": "24918", "name": "ولاية وسط دارفور", "country_id": "249" },
-
+  /* the states (regions) are not correct the here is the actual list to confirm it 
+  https://www.marefa.org/%D8%A7%D9%84%D8%AA%D9%82%D8%B3%D9%8A%D9%85%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D8%B5%D9%88%D9%85%D8%A7%D9%84#%D9%85%D9%86%D8%B7%D9%82%D8%A9_%D9%88%D9%82%D9%88%D9%8A%D9%8A_%D8%AC%D8%A7%D9%84%D8%A8%D9%8A%D8%AF 
+  https://www.mappr.co/political-maps/somalia-map/
+  */
   { "id": "25201", "name": "مقديشو", "country_id": "252" },
   { "id": "25202", "name": "هرجيسا", "country_id": "252" },
   { "id": "25203", "name": " بوساسو", "country_id": "252" },
