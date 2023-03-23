@@ -287,11 +287,11 @@
   { "id": "96211", "name": "معان", "country_id": "962" },
   { "id": "96212", "name": "الطفيلة", "country_id": "962" },
 
-  { "id": "96301", "name": "دمشق", "country_id": "963" },
-  { "id": "96302", "name": "حلب", "country_id": "963" },
-  { "id": "96303", "name": "حمص", "country_id": "963" },
-  { "id": "96304", "name": "ريف دمشق", "country_id": "963" },
-  { "id": "96305", "name": "القنيطرة", "country_id": "963" },
+  { "id": "96301", "name": "دمشق", "country_id": "963" }, 
+  { "id": "96302", "name": "حلب", "country_id": "963" }, 
+  { "id": "96303", "name": "حمص", "country_id": "963" }, /* https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9_%D8%AD%D9%85%D8%B5 for cities include 'نواحي' */
+  { "id": "96304", "name": "ريف دمشق", "country_id": "963" }, /* https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9_%D8%B1%D9%8A%D9%81_%D8%AF%D9%85%D8%B4%D9%82 */
+  { "id": "96305", "name": "القنيطرة", "country_id": "963" }, /* the same for the rest */
   { "id": "96306", "name": "إدلب", "country_id": "963" },
   { "id": "96307", "name": "حماه", "country_id": "963" },
   { "id": "96308", "name": "الحسكة", "country_id": "963" },
