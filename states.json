@@ -239,7 +239,10 @@
   { "id": "24916", "name": "ولاية جنوب دارفور", "country_id": "249" },
   { "id": "24917", "name": "ولاية شرق دارفور", "country_id": "249" },
   { "id": "24918", "name": "ولاية وسط دارفور", "country_id": "249" },
-
+  /* the states (regions) are not correct the here is the actual list to confirm it 
+  https://www.marefa.org/%D8%A7%D9%84%D8%AA%D9%82%D8%B3%D9%8A%D9%85%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D8%B5%D9%88%D9%85%D8%A7%D9%84#%D9%85%D9%86%D8%B7%D9%82%D8%A9_%D9%88%D9%82%D9%88%D9%8A%D9%8A_%D8%AC%D8%A7%D9%84%D8%A8%D9%8A%D8%AF 
+  https://www.mappr.co/political-maps/somalia-map/
+  */
   { "id": "25201", "name": "مقديشو", "country_id": "252" },
   { "id": "25202", "name": "هرجيسا", "country_id": "252" },
   { "id": "25203", "name": " بوساسو", "country_id": "252" },
@@ -262,8 +265,8 @@
   { "id": "25301", "name": "جيبوتي", "country_id": "253" },
   { "id": "25302", "name": "علي صبيح", "country_id": "253" },
   { "id": "25303", "name": "تاجورة", "country_id": "253" },
-  { "id": "25304", "name": "أُبـُخ ", "country_id": "253" },
-  { "id": "25305", "name": "دخيل", "country_id": "253" },
+  { "id": "25304", "name": "أُبـُخ ", "country_id": "253" }, 
+  { "id": "25305", "name": "دخيل", "country_id": "253" }, 
   { "id": "25306", "name": "أرتا", "country_id": "253" },
 
   { "id": "26901", "name": "القمر الكبرى", "country_id": "269" },
@@ -293,11 +296,11 @@
   { "id": "96211", "name": "معان", "country_id": "962" },
   { "id": "96212", "name": "الطفيلة", "country_id": "962" },
 
-  { "id": "96301", "name": "دمشق", "country_id": "963" },
-  { "id": "96302", "name": "حلب", "country_id": "963" },
-  { "id": "96303", "name": "حمص", "country_id": "963" },
-  { "id": "96304", "name": "ريف دمشق", "country_id": "963" },
-  { "id": "96305", "name": "القنيطرة", "country_id": "963" },
+  { "id": "96301", "name": "دمشق", "country_id": "963" }, 
+  { "id": "96302", "name": "حلب", "country_id": "963" }, 
+  { "id": "96303", "name": "حمص", "country_id": "963" }, /* https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9_%D8%AD%D9%85%D8%B5 for cities include 'نواحي' */
+  { "id": "96304", "name": "ريف دمشق", "country_id": "963" }, /* https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9_%D8%B1%D9%8A%D9%81_%D8%AF%D9%85%D8%B4%D9%82 */
+  { "id": "96305", "name": "القنيطرة", "country_id": "963" }, /* the same for the rest */
   { "id": "96306", "name": "إدلب", "country_id": "963" },
   { "id": "96307", "name": "حماه", "country_id": "963" },
   { "id": "96308", "name": "الحسكة", "country_id": "963" },

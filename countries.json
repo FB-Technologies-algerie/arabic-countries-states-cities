@@ -8,9 +8,9 @@
   { "id": "249", "code": "SD", "name": "السودان" },
   { "id": "252", "code": "SO", "name": "الصومال" },
   { "id": "253", "code": "DJ", "name": "جيبوتي" },
-  { "id": "269", "code": "KM", "name": "جزر القمر" },
+  { "id": "269", "code": "KM", "name": "جزر القمر" }, 
   { "id": "961", "code": "LB", "name": "لبنان" },
-  { "id": "962", "code": "JO", "name": "الأردن" },
+  { "id": "962", "code": "JO", "name": "الأردن" }, /* check this site for the official cities https://moi.gov.jo/Ar/List/%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%83%D8%B2_%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9 */
   { "id": "963", "code": "SR", "name": "سوريا" },
   { "id": "964", "code": "IQ", "name": "العراق" },
   { "id": "965", "code": "KW", "name": "الكويت" },
