@@ -12,7 +12,7 @@
   { "id": "2011", "name": "الأقصر", "country_id": "20" },
   { "id": "2012", "name": "البحر الأحمر", "country_id": "20" },
   { "id": "2013", "name": "البحيرة", "country_id": "20" },
-  { "id": "2014", "name": "بني سويف ", "country_id": "20" },
+  { "id": "2014", "name": "بني سويف", "country_id": "20" },
   { "id": "2015", "name": "بورسعيد", "country_id": "20" },
   { "id": "2016", "name": "جنوب سيناء", "country_id": "20" },
   { "id": "2017", "name": "السويس", "country_id": "20" },
@@ -133,7 +133,7 @@
   { "id": "21354", "name": "عين صالح", "country_id": "213" },
   { "id": "21355", "name": "تقرت", "country_id": "213" },
   { "id": "21356", "name": "جانت", "country_id": "213" },
-  { "id": "21357", "name": "إن قزام", "country_id": "213" },
+  { "id": "21357", "name": "عبن قزام", "country_id": "213" },
   { "id": "21358", "name": "الوادي", "country_id": "213" },
 
   { "id": "21601", "name": "أريانة", "country_id": "216" },
@@ -161,7 +161,7 @@
   { "id": "21623", "name": "المهدية", "country_id": "216" },
   { "id": "21624", "name": "نابل", "country_id": "216" },
 
-  // I think there are a lot of additional districts
+  // I think there are a lot of added districts here (to be removed)
   // As of 2007 (latest), apparently there are 22 districts in Libya only
   // https://fr.wikipedia.org/wiki/Administration_territoriale_de_la_Libye
   { "id": "21801", "name": "طرابلس", "country_id": "218" },
