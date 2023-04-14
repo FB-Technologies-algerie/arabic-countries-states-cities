@@ -274,12 +274,6 @@
   {"id": "202709","name": "نقادة","state_id": "2027"},
   {"id": "202710","name": "دشنا","state_id": "2027"},
 
-  // Can you re-check all moroccan cities please ?
-  // Because these are streets and not cities 
-  // (a lot of these streets belong to one city)
-  // Also, there are a lot of administrative structure differences
-  // For example, you added streets, Dairas, prefectures and cities all together
-  
   {"id": "2120101","name": "الحسيمة","state_id": "21201"},
   {"id": "2120102","name": "بني بوعياش","state_id": "21201"},
   {"id": "2120103","name": "إمزورن","state_id": "21201"},
@@ -1974,9 +1968,6 @@
   {"id": "2127504","name": "عليين","state_id": "21275"},
   {"id": "2127505","name": "بليونش","state_id": "21275"},
 
-  // Algiers cities are missing a lot of cities 
-  // (these entries are the streets and not cities)
-  // https://ar.wikipedia.org/wiki/%D9%88%D9%84%D8%A7%D9%8A%D8%A9_%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1#%D8%A7%D9%84%D8%B1%D9%85%D9%88%D8%B2_%D8%A7%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A6%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%AF%D9%8A%D8%A9
   {"id": "2130101","name": "عين البنيان","state_id": "21301"},
   {"id": "2130102","name": "عين طاية","state_id": "21301"},
   {"id": "2130103","name": "الجزائر الوسطى","state_id": "21301"},
@@ -4774,9 +4765,6 @@
   {"id": "2491807","name": "روكرو","state_id": "24918"},
   {"id": "2491808","name": "محلية بندسي","state_id": "24918"},
   
-  /* 
-    the cities must be reviewed after changing the regions
-  */
   {"id": "2520101", "name": "بورمه", "state_id": "25201"},
   {"id": "2520102", "name": "بكي", "state_id": "25201"},
   {"id": "2520103", "name": "لوجهيي", "state_id": "25201"},
@@ -5833,9 +5821,6 @@
   {"id": "9641916","name": "ناحية الحفرية (تاج الدين) ","state_id": "96419"},
   {"id": "9641917","name": "ناحية الدبوني (الخلفاء)","state_id": "96419"},
 
-  /* There is some missing areas and update the names this link can be usefull  
-    https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D9%86%D8%A7%D8%B7%D9%82_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA
-  */
   { "id": "9650101", "name": "دسمان", "state_id": "96501" },
   { "id": "9650102", "name": "الشرق", "state_id": "96501" },
   { "id": "9650103", "name": "الصوابر", "state_id": "96501" },
@@ -6462,7 +6447,6 @@
   {"id": "9672114","name": "مديرية يافع","state_id": "96721"},
   {"id": "9672115","name": "مديرية يهر","state_id": "96721"},
 
-  /* https://yemen-nic.info/gover/shabwaa/classoff/   please check this and correct */
   { "id": "9672201", "name": "عتق", "state_id": "96722" },
   { "id": "9672202", "name": "عرماء", "state_id": "96722" },
   { "id": "9672203", "name": "دهر", "state_id": "96722" },
