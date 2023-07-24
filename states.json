@@ -27,9 +27,6 @@
   { "id": "2026", "name": "سوهاج", "country_id": "20" },
   { "id": "2027", "name": "قنا", "country_id": "20" },
 
-  // Some moroccan prefectures are missing (it says 75 in the wiki page)
-  // Check column "الأقاليم و العمالات" in the attached link : 
-  // https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AA%D9%82%D8%B3%D9%8A%D9%85_%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A_%D9%81%D9%8A_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8
   { "id": "21201", "name": "الدار البيضاء", "country_id": "212" },
   { "id": "21202", "name": "فاس", "country_id": "212" },
   { "id": "21203", "name": "الرباط", "country_id": "212" },
